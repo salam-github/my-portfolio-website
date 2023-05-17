@@ -1,0 +1,17 @@
+
+/* config.css */
+:root {
+    --baseColor: #2bb432;
+    --bodyBackroundColor: #15b4b4;
+}
+
+body {
+    background-color: #2c3338;
+    text-align: center;
+    color: orange
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
