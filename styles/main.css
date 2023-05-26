@@ -37,7 +37,7 @@ body
   top: 50px;
   left: 50px;
   
-  z-index: 1;
+  z-index: 2;
   
   -webkit-user-select: none;
   user-select: none;
@@ -237,7 +237,7 @@ body
   padding: 30px 15px 5px 15px;
   margin: -30px -15px 45px -15px;
   position: relative;
-  z-index: 2;
+  z-index: 3;
 }
 .resume .base .profile::after {
   content: "";
@@ -248,7 +248,7 @@ body
   bottom: -15px;
   left: 0;
   transform: skewY(-5deg);
-  z-index: -1;
+  z-index: -2;
 }
 .resume .base .profile .photo img {
   width: 100%;
